@@ -11,3 +11,5 @@ Para executar basta rodar no terminal da seguinte forma, substuir <caminho_progr
 ```java -jar robo2csp.jar <caminho_program_robo>```
 
 Como saída é gerado um arquivo CSP com a tradução.
+
+OBS: Testado usando linux.
